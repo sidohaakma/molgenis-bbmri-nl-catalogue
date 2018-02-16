@@ -3,7 +3,7 @@ package org.molgenis.promise.mapper;
 import org.molgenis.data.DataService;
 import org.molgenis.data.Entity;
 import org.molgenis.data.MolgenisDataException;
-import org.molgenis.data.jobs.Progress;
+import org.molgenis.jobs.Progress;
 import org.molgenis.data.meta.model.EntityType;
 import org.molgenis.data.support.DynamicEntity;
 import org.molgenis.promise.PromiseMapperType;

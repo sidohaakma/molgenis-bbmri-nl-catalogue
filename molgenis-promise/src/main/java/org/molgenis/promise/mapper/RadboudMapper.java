@@ -3,7 +3,7 @@ package org.molgenis.promise.mapper;
 import org.molgenis.data.DataService;
 import org.molgenis.data.Entity;
 import org.molgenis.data.EntityManager;
-import org.molgenis.data.jobs.Progress;
+import org.molgenis.jobs.Progress;
 import org.molgenis.promise.PromiseMapperType;
 import org.molgenis.promise.client.PromiseDataParser;
 import org.molgenis.promise.model.PromiseCredentials;

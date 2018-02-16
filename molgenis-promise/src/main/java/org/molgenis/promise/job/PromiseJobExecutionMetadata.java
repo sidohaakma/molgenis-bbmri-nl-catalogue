@@ -1,7 +1,7 @@
 package org.molgenis.promise.job;
 
-import org.molgenis.data.jobs.model.JobExecutionMetaData;
-import org.molgenis.data.jobs.model.JobPackage;
+import org.molgenis.jobs.model.JobExecutionMetaData;
+import org.molgenis.jobs.model.JobPackage;
 import org.molgenis.data.meta.AttributeType;
 import org.molgenis.data.meta.SystemEntityType;
 import org.molgenis.promise.PromiseMapperType;
@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.stream.Collectors;
 
 import static java.util.Objects.requireNonNull;
-import static org.molgenis.data.jobs.model.JobPackage.PACKAGE_JOB;
+import static org.molgenis.jobs.model.JobPackage.PACKAGE_JOB;
 
 @Component
 public class PromiseJobExecutionMetadata extends SystemEntityType

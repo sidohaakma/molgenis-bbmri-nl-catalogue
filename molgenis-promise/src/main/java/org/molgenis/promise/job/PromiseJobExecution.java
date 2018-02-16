@@ -1,7 +1,7 @@
 package org.molgenis.promise.job;
 
 import org.molgenis.data.Entity;
-import org.molgenis.data.jobs.model.JobExecution;
+import org.molgenis.jobs.model.JobExecution;
 import org.molgenis.data.meta.model.EntityType;
 import org.molgenis.promise.PromiseMapperType;
 

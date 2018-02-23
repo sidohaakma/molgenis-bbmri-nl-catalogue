@@ -18,3 +18,7 @@ derby.log
 **/.factorypath
 **/node_modules
 **/node
+
+## maven release
+release.properties
+pom.xml.backupPom

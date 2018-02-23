@@ -21,4 +21,4 @@ derby.log
 
 ## maven release
 release.properties
-pom.xml.backupPom
+pom.xml.releaseBackup

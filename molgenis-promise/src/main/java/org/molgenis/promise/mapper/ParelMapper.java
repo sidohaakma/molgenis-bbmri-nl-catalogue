@@ -26,7 +26,7 @@ import static java.util.Collections.singletonList;
 import static java.util.Objects.requireNonNull;
 import static java.util.stream.Collectors.toList;
 import static java.util.stream.Collectors.toSet;
-import static org.hibernate.validator.util.CollectionHelper.asSet;
+import static org.hibernate.validator.internal.util.CollectionHelper.asSet;
 import static org.molgenis.promise.model.BbmriNlCheatSheet.*;
 import static org.molgenis.promise.model.PromiseMaterialTypeMetadata.PROMISE_MATERIAL_TYPE;
 

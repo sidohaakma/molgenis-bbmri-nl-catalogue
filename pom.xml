@@ -20,8 +20,8 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git://github.com/molgenis/molgenis-bbmri-nl-catalogue.git</connection>
-        <url>https://github.com/molgenis/molgenis-bbmri-nl-catalogue</url>
+        <connection>scm:git:git://github.com/molgenis/molgenis-rd-connect.git</connection>
+        <url>https://github.com/molgenis/molgenis-rd-connect</url>
     </scm>
 
     <developers>

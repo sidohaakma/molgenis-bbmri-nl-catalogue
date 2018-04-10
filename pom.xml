@@ -23,6 +23,13 @@
         <connection>scm:git:https://github.com/molgenis/molgenis-app-bbmri-nl.git</connection>
         <url>https://github.com/molgenis/molgenis-app-bbmri-nl.git</url>
     </scm>
+    <distributionManagement>
+        <repository>
+            <id>molgenis-registry</id>
+            <url>https://registry.molgenis.org/apps</url>
+            <uniqueVersion>false</uniqueVersion>
+        </repository>
+    </distributionManagement>
 
     <developers>
         <developer>

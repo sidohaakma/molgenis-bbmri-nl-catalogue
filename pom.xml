@@ -43,7 +43,10 @@
 
     <!-- clean up -->
     <properties>
+        <!-- spscify git credentials for MAVEN release with GitHub -->
         <project.scm.id>git</project.scm.id>
+
+        <!-- MOLGENIS base version -->
         <molgenis.version>6.0.0</molgenis.version>
         <!-- maven properties -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -54,7 +57,6 @@
         <molgenis.build.timestamp>${maven.build.timestamp}</molgenis.build.timestamp>
 
         <!-- code quality monitoring properties -->
-        <sonatype.id>sonatype-nexus-staging</sonatype.id>
         <sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itReportPath>
 
         <!-- plugin versions -->

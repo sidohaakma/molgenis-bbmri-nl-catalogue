@@ -20,8 +20,8 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git://github.com/molgenis/molgenis-rd-connect.git</connection>
-        <url>https://github.com/molgenis/molgenis-rd-connect</url>
+        <connection>scm:git:https://github.com/molgenis/molgenis-app-bbmri-nl.git</connection>
+        <url>https://github.com/molgenis/molgenis-app-bbmri-nl.git</url>
     </scm>
 
     <developers>
@@ -36,6 +36,7 @@
 
     <!-- clean up -->
     <properties>
+        <project.scm.id>git</project.scm.id>
         <molgenis.version>6.0.0</molgenis.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
